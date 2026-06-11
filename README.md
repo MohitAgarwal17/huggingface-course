@@ -4,11 +4,11 @@ Following the HuggingFace LLM Course, covering transformer fundamentals using Py
 https://huggingface.co/learn/llm-course
 
 ## Contents
-- **chapter 1/** - Transformer Pipelines
-- **chapter 2/** - Using Transformers (Tokenizers & Models)
-- **chapter 3/** - Fine Tuning Models
-- **chapter 4/** - Tokenizers
-- **chapter 5/** - Datasets
+- **chapter 1/** - Transformer Models
+- **chapter 2/** - Using 🤗 Transformers (Tokenizers & Models)
+- **chapter 3/** - Fine Tuning Pre-trained Models
+- **chapter 4/** - Sharing models and tokenizers
+- **chapter 5/** - The 🤗 Datasets library
 
 
 ## Part of my ML roadmap
