@@ -7,8 +7,7 @@ https://huggingface.co/learn/llm-course
 - **chapter 1** - Transformer Models
 - **chapter 2** - Using 🤗 Transformers (Tokenizers & Models)
 - **chapter 3** - Fine Tuning Pre-trained Models
-- **chapter 4** - Sharing models and tokenizers
-- **chapter 5** - The 🤗 Datasets library
+- **chapter 4** - The 🤗 Datasets library
 
 
 ## Part of my ML roadmap
